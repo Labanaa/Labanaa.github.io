@@ -1,0 +1,24 @@
+
+.hi {
+    color: #1b8ca0;
+    background-color:#eff5fb
+}
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchlogo {
+    width: 37px;
+    height: 36px
+
+}
+.searchlogo img{
+    width: 100%;
+}
+
+/* lenh "*" is for the whole project
+p, hi, .... for paragraph....
+# is for id
+. for class */
+

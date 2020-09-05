@@ -1,0 +1,33 @@
+.Menu {
+    background-color: #f6f3f2;
+}
+.Icon img{
+    width: 37px;
+    height: 37px;
+}
+.name{
+    height: 37px;
+    width: 20%;
+}
+.name img{
+    width: 37px;
+    height: 37px;
+}
+.d-flex{
+    display: flex
+}
+li{
+    list-style: none;
+}
+.Icon{
+    width: 20%;
+    justify-content: flex-end;
+    align-items: center;
+}
+ul{
+    justify-content: space-between;
+    width: 100%;
+}
+.menu_mini{
+    width: 80%;
+}

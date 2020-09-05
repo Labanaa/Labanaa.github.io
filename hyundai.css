@@ -1,0 +1,255 @@
+.Menu{
+    background-color: #f6f3f2;
+    height: 71px;
+    width: 100%;
+    position: relative;
+
+}
+li{
+    list-style: none;
+}
+.ali{
+    font-size: 16px;
+    line-height: 70px;
+    text-decoration: none;
+    color: #666;
+    font-family: HyundaiMedium;
+    font-weight: bolder;
+}
+.fly{
+    display: flex;
+}
+.hyu{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    height: 125%
+}
+.logo{
+    padding: 10px 10px 17px 40px;
+    width: 30%;
+    align-items: center;
+}
+.img1{
+    width: 155px;
+    height: 30px;
+    padding-left: 3%;
+}
+.tt{
+    width: 516px;
+}
+ul.text.fly {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.button.fly {
+    width: 20%;
+    justify-content: flex-end;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 3%;
+}
+.banner{
+    height: 616px;
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.minih1{
+    font-size: 15px;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    line-height: 1;
+    letter-spacing: 0.1em;
+    color: #002c5f;
+}
+.realh1{
+    font-size: 44px;
+    line-height: 1.2;
+    font-weight: normal;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    color: #000;
+    margin: 0%;
+}
+.bimg{
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+    padding-left: 5%;
+     position: relative; 
+     margin-top: 18%;
+}
+.tt{
+    width: 70%;
+}
+.bcontent{
+    padding-top: 75px;
+    padding-bottom: 75px;
+   
+}
+h3.tt_IO {
+    position: absolute;
+    color: white;
+    top: 0%;
+    left: 17%;
+}
+.pio{
+    font-size: 24px;
+    line-height: 1.2;
+    font-weight: normal;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    font-weight: bold;
+    margin: 0;
+}
+.sio{
+    font-size: 19px;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    line-height: 1;
+    letter-spacing: 0.1em;
+}
+.news1{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 750px;
+    left: 5%;
+}
+.I1{
+    padding-left: 8px;
+}
+.I2{
+    padding-left: 44px;
+}
+.minih1{
+    text-decoration: none;
+}
+.minih2{
+    font-size: 12px;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    line-height: 1;
+    letter-spacing: 0.1em;
+    color: #002c5f;
+    margin-bottom: 6px;
+
+}
+.detail{
+    font-size: 20px;
+    line-height: 1;
+    font-weight: normal;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    color: #000;
+    font-weight: 600;
+}
+.news2{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 1300px;
+    left: 5%;
+    right: 5%;
+}
+.news3{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 1850px;
+    left: 5%;
+    right: 5%;
+}
+.I2n{
+    padding-left: 55px;
+}
+.news4{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 2385px;
+    left: 5%;
+    right: 5%;
+}
+.news5{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 2930px;
+    left: 5%;
+    right: 5%;
+}
+.main_news{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 3450px;
+    background-color: #002c5f;
+    width: 100%;
+}
+.ttt{
+    padding-left: 5%;
+    padding-top: 1%;
+}
+.am{
+    margin-bottom: 5px;
+    color: white;
+    line-height: 1;
+    letter-spacing: 0.1em;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+}
+.ma{
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+    line-height: 1.3;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+}
+.imgmainnews{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1% 5%;
+    width: 1120px;
+}
+.II1{
+    width: 50%;
+    background-position: center center;
+}
+.II2{
+    width: 50%;
+}
+.minih1{
+    width: 100%;
+}
+.imgnews{
+    width: 100%;
+}
+.imgnewsbr{
+    width: 100%;
+    padding-left: 4%;
+    height: 371px;
+}
+.wminih2{
+    font-size: 12px;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    line-height: 1;
+    letter-spacing: 0.1em;
+    color: white;
+}
+.wdetail{
+    font-size: 20px;
+    line-height: 1;
+    font-weight: normal;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    color: white;
+    font-weight: 600;
+}
+.whnews{
+    padding-left: 4%;
+}

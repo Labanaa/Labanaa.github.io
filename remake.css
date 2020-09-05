@@ -1,0 +1,74 @@
+.Menu{
+    background-color: #f6f3f2;
+    height: 71px;
+
+}
+li{
+    list-style: none;
+    font-size: 16px;
+    line-height: 70px;
+    color: #666;
+    text-decoration: none;
+    font-family: HyundaiMedium;
+    font-weight: bolder;
+}
+.fly{
+    display: flex;
+}
+.hyu{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.logo{
+    padding: 10px 10px 10px 40px;
+    width: 18%;
+}
+.tt{
+    width: 53%;
+}
+ul.text.fly {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.button.fly {
+    width: 24%;
+    justify-content: flex-end;
+    align-items: center;
+}
+.banner{
+    height: 616px;
+    display: flex;
+    justify-content: space-between;
+}
+.bcontent{
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.minih1{
+    font-size: 15px;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    line-height: 1;
+    letter-spacing: 0.1em;
+    color: #002c5f;
+}
+.realh1{
+    font-size: 44px;
+    line-height: 1.2;
+    font-weight: normal;
+    font-family: "HyundaiMedium", "HyundaiKRMedium";
+    color: #000;
+    margin: 0%;
+}
+.bimg{
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+}
+
+
+
+
+
