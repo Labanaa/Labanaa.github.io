@@ -2,8 +2,13 @@
     background-color: #f6f3f2;
     height: 71px;
     width: 100%;
-    position: relative;
-
+}
+.d-img{
+    width: 100%;
+}
+body{
+    margin: 0;
+    width: 1200px;
 }
 li{
     list-style: none;
@@ -53,8 +58,8 @@ ul.text.fly {
 .banner{
     height: 616px;
     display: flex;
-    padding-left: 5%;
-    padding-right: 5%;
+    flex-direction: column;
+    margin: 30px;
 }
 .minih1{
     font-size: 15px;
@@ -75,23 +80,26 @@ ul.text.fly {
     display: flex;
     align-items: flex-end;
     padding-bottom: 15px;
-    box-sizing: border-box;
-    padding-left: 5%;
-     position: relative; 
-     margin-top: 18%;
+     position: relative;
+     width: 100%; 
 }
 .tt{
     width: 70%;
 }
+.imgbanner{
+
+}
 .bcontent{
-    padding-top: 75px;
-    padding-bottom: 75px;
-   
+    width: 100%;
+}
+.IOT{
+    padding-left: 5%;
+    position: relative;
 }
 h3.tt_IO {
     position: absolute;
     color: white;
-    top: 0%;
+    top: 3%;
     left: 17%;
 }
 .pio{
@@ -181,18 +189,20 @@ h3.tt_IO {
     left: 5%;
     right: 5%;
 }
+.news1, .news2, .news3, .news4, .news5, .main_news {
+    position: unset;
+    margin: 30px ;
+}
 .main_news{
     margin: 0;
     display: flex;
     flex-direction: column;
-    position: absolute;
-    top: 3450px;
     background-color: #002c5f;
     width: 100%;
+    width: 1200px;
 }
 .ttt{
-    padding-left: 5%;
-    padding-top: 1%;
+    padding-left: 3%;
 }
 .am{
     margin-bottom: 5px;
@@ -214,8 +224,9 @@ h3.tt_IO {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 1% 5%;
+    padding-left: 3%;
     width: 1120px;
+    margin-bottom: 5%;
 }
 .II1{
     width: 50%;
@@ -252,4 +263,41 @@ h3.tt_IO {
 }
 .whnews{
     padding-left: 4%;
+}
+footer{
+    width: 100%;
+    margin-top: 30px;
+    background-color: black;
+}
+.imgf{
+    width: 4%;
+    padding: 4%;
+}
+h3{
+    margin-bottom: 18px;
+    color: #fff;
+    font-family: HyundaiMedium;
+    line-height: 1;
+    margin: 0;
+    font-weight: normal;
+}
+.infor{
+    padding-left: 4%;
+}
+.fa{
+    display: flex;
+    justify-content: start;
+    font-size: 18px;
+    color: #cfc8c2;
+    padding-bottom: 10px;
+    letter-spacing: .012em;
+}
+.ff{
+    padding-left: 0;
+}
+.ullist{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 4%;
+    padding-bottom: 7%;
 }
