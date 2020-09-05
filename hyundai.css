@@ -31,7 +31,7 @@ li{
     height: 125%
 }
 .logo{
-    padding: 10px 10px 17px 40px;
+    padding: 10px 10px 17px 12px;
     width: 30%;
     align-items: center;
 }
@@ -54,6 +54,7 @@ ul.text.fly {
     align-items: center;
     padding-left: 7%;
     padding-right: 3%;
+    padding-top: 5px;
 }
 .banner{
     height: 616px;
