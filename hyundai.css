@@ -5,13 +5,19 @@
 
 .Menu{
     background-color: #f6f3f2;
-    height: 71px;
+    height: 70px;
     width: 100%;
-    padding: 0px 50px 0px 50px;
+}
+
+.content {
+
+    width: 80%;
+    margin: auto;
+    
 }
 .d-img{
-    width: 100%;
-    padding: 0 50px 0 50px;
+    width: 80%;
+    margin: auto;
 }
 body{
     margin: 0;
